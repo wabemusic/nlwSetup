@@ -104,8 +104,10 @@ input {
 
 /* pseudo selector*/
 input:checked {
-  background-color: #8b5cf6;
-  border: 2px solid #a78bfa;
+  background: #4F9C56;
+  border: 1px solid #6BEE77;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
 }
 
 @media (max-width: 570px) {
