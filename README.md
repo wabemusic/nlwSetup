@@ -1,6 +1,6 @@
 <h1 align="center"> Habit tracker </h1>
 
-<img src="nlw-step/assets/screenshotHabits.png">
+
 
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
